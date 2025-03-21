@@ -1,0 +1,7 @@
+read x;
+read y;
+if x > 5 AND y mod 2 = 0 OR x = 7 then
+    write 1;
+else
+    write 2;
+end

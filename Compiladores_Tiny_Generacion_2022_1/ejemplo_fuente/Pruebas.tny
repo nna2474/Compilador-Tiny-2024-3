@@ -1,0 +1,7 @@
+x:=1;
+y := 0;
+repeat
+    write x;
+    x := x+1;
+    y := y + 1
+until ((x > 5) AND (y > 8))

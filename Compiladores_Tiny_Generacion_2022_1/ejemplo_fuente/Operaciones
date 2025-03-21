@@ -1,0 +1,18 @@
+{
+
+    Operaciones Matematicas
+
+}
+x := 2;
+y := 5;
+z := 10;
+
+{ ***** Sumas y Restas *****}
+write 3+5+x;        { 10 }
+a := y + z;         { 15 }
+write a;
+write 10 + y - x;   { 13 }
+
+{ ***** Multi, Divi y Mod ***** }
+write x*y/2;        { 5 }
+write 14 mod 3;     { 2 }
